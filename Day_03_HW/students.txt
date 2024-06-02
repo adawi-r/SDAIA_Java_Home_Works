@@ -1,0 +1,6 @@
+Sara,20,Jeedah,1,SQL
+Asma,25,Jeedah,2,Java
+Rafa,21,Jeedah,3,Python
+Nora,21,Jeedah,4,Back Development
+Afnan,26,Riyadh,6,C++
+Raghad,19,Abha,7,C#
